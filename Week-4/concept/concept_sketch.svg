@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" fill="#f7f7f7"/>
+<g fill="none" stroke="#20242a" stroke-width="4">
+<rect x="120" y="180" width="560" height="250" rx="18"/>
+<line x1="120" y1="180" x2="680" y2="180"/>
+<rect x="190" y="220" width="210" height="150" rx="10"/>
+<path d="M450 370 L450 270 L570 220 L570 370"/>
+<rect x="500" y="290" width="120" height="50" rx="8"/>
+<circle cx="650" cy="460" r="22"/>
+<circle cx="150" cy="460" r="22"/>
+<path d="M680 430 L780 470 L780 520 L680 480 Z"/>
+</g>
+<g font-family="Arial" fill="#20242a">
+<text x="120" y="80" font-size="36" font-weight="bold">Modular Desk Organizer — Concept Sketch</text>
+<text x="120" y="120" font-size="20">Tray + phone stand + removable pen cup + cable insert + divider</text>
+<text x="210" y="410" font-size="20">Storage bay</text>
+<text x="455" y="405" font-size="20">Phone stand</text>
+<text x="705" y="455" font-size="20">Cable path</text>
+<text x="120" y="565" font-size="22">Design intent: compact, printable, modular, easy to clean and reconfigure.</text>
+</g>
+</svg>
