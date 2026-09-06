@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="white"/>
+<g fill="none" stroke="black" stroke-width="2">
+<rect x="40" y="40" width="1120" height="720"/>
+<!-- Top view -->
+<rect x="100" y="120" width="440" height="220"/>
+<rect x="145" y="155" width="150" height="150"/>
+<rect x="350" y="175" width="150" height="70"/>
+<line x1="100" y1="380" x2="540" y2="380"/>
+<line x1="100" y1="370" x2="100" y2="390"/><line x1="540" y1="370" x2="540" y2="390"/>
+<!-- Front view -->
+<rect x="100" y="500" width="440" height="65"/>
+<line x1="100" y1="600" x2="540" y2="600"/>
+<!-- Phone stand profile -->
+<path d="M700 565 L700 455 L760 415 L760 565 Z"/>
+<rect x="680" y="565" width="180" height="25"/>
+<!-- Pen cup -->
+<rect x="900" y="455" width="150" height="145"/>
+<line x1="920" y1="475" x2="1030" y2="475"/>
+</g>
+<g font-family="Arial" fill="black">
+<text x="70" y="85" font-size="32" font-weight="bold">WEEK 4 — DESK ORGANIZER TECHNICAL DRAWING</text>
+<text x="100" y="110" font-size="18">TOP VIEW</text>
+<text x="100" y="470" font-size="18">FRONT VIEW</text>
+<text x="690" y="390" font-size="18">PHONE STAND PROFILE</text>
+<text x="900" y="430" font-size="18">PEN CUP</text>
+<text x="245" y="410" font-size="18">220 mm OVERALL</text>
+<text x="245" y="625" font-size="18">110 mm WIDTH</text>
+<text x="705" y="630" font-size="18">32 mm TRAY HEIGHT</text>
+<text x="910" y="625" font-size="18">70 × 70 × 90 mm</text>
+<text x="70" y="700" font-size="18">GENERAL TOLERANCE: ±0.30 mm  |  WALL: 3 mm  |  UNITS: mm  |  FDM: PLA/PETG</text>
+<text x="70" y="730" font-size="18">Drawing intent: fabrication reference; verify final CAD before manufacture.</text>
+</g>
+</svg>
